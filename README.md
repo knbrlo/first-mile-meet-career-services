@@ -1,6 +1,6 @@
 # Meet Career Services
 
-The goal of Career Services is to help you get and start a tech career that you’ll love. To do this, our Career Services team provides three main types of support:
+The goal of Career Services is to help you get a job and start tech career that you’ll love. To do this, our Career Services team provides three main types of support:
 
 # Career Coaching
 Every student will be matched with a dedicated Career Coach approximately 4 weeks before they graduate who will support them via one-on-one meetings each week, until they secure a job (or reach whatever other goal they may have after graduation). 
