@@ -14,4 +14,4 @@ The Career Prep Track is a 250+ page curriculum that teaches students how to get
 # Networking with Companies
 The Employer Partnerships (EP) team works with companies to identify their hiring needs, build partnerships, and connect companies with graduates. Our EP team is constantly building relationships with employers, and thus working hard to create opportunities for students to network. Our EP team serves as a supplement to the work you’ll do independently to drive your job search with your coach’s close guidance. The EP team regularly presents Flatiron School candidates to employers, and arranges interviews on their behalf.
 
-If you’d like, you can check out our latest jobs report [here](https://flatironschool.com/jobs-reports/).  
+If you’d like, you can check out our latest jobs report [here](https://flatironschool.com/jobs-reports/), and more information may be found in the Career Services section of the Flatiron School Catalog, which can be viewed by clicking on “View the full United States catalog” here: [https://flatironschool.com/north-america-regulatory-information/](https://flatironschool.com/north-america-regulatory-information/).
